@@ -1,0 +1,10 @@
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\bin\Debug\windowCalculator.exe.config
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\bin\Debug\windowCalculator.exe
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\bin\Debug\windowCalculator.pdb
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.csproj.AssemblyReference.cache
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.Form1.resources
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.Properties.Resources.resources
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.csproj.GenerateResource.cache
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.exe
+C:\Users\owais\source\repos\windowCalculator\windowCalculator\obj\Debug\windowCalculator.pdb
